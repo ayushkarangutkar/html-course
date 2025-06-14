@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The heading program</title>
+        <!--This is the comments-->
+    </head>
+    <body>
+        <h1>The name</h1>
+        <br> <!--This used to enter next line -->
+        <h2>The name</h2>
+    </body>
+</html>
