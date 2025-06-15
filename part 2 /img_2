@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Image </title>
+    </head>
+    <body>
+        <p>The iphone new model</p>
+        <img src="image.png " alt = "Iphone Image" width="200"> 
+        <br>
+        <p>The oppo new model</p>
+        <img src ="ph.png" alt = "Iphone Image" width = "200">
+    </body>
+</html>
