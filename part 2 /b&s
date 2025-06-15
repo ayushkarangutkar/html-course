@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<!--The big and small-->
+<html>
+    <head>
+        <title>The letter tags </title>
+    </head>
+    <body>
+       <big>The world is bigger for ant</big>
+       <br>
+       <small>The ant is smaller for world</small>
+    </body> 
+</html>
