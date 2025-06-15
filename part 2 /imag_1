@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The Image </title>
+    </head>
+    <body>
+        <p>The iphone new model</p>
+        <img src="image.png" alt = "Iphone Image"> 
+    </body>
+</html>
