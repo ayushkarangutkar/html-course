@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<!--The Subscript and Supscript--> 
+<html>
+    <head>
+        <title><b>The combustion of methane</b></title>
+    </head>
+    <body>
+      <p>CH<sub>4</sub> + O<sub>2</sub> => CO<sub>2</sub> + H<sub>2</sub>O</p>
+      <p><b>(a+b)</b><sup>2</sup><b>= a</b><sup>2</sup><b>+ 2ab + b</b><sup>2</sup></p> 
+    </body> 
+</html> 
