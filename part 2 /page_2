@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<!--The Subscript and Supscript--> 
+<html>
+    <head>
+        <title><b>The page</b></title>
+    </head>
+    <body>
+      <header><b><div>The cars</div></b></header>
+      <br>
+      <hr>
+      <main>
+        <section><i>The model of this is old</i></section>
+        <article><i><u>The work is done</u></i></article>
+        <hr>
+      </main>
+      <footer>See the work in these</footer>
+    </body> 
+</html> 
