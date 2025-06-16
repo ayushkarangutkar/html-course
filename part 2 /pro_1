@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>Github.com</title>
+    </head>
+    <body>
+        <header>
+            <p><img src="github.png" height="70"> <big><b><big><b><big>Github</big></b></big></b></big></p>           
+            <hr>
+        </header>
+        <main>
+            <br>
+            <section>
+                <y><big><big><b><u>My profile</u></b></big></big></y>
+                <p><img src="c:\Users\admin\Pictures\s&m.PNG" height="150"> 
+                    <big><big><b><b><u>  Simba & Max </u></b></b></big></big></p>
+            </section>
+            <article>
+                <br>
+                <p><b> INFO :- </b></p>
+                <p>The simba and max programming course is full of free and you can see this 
+                    all things in every platform see this all details . <br> so much things
+                    <a href="https://en.wikipedia.org/wiki/GitHub">Read more</a>
+                </p>
+                <p><b>EXPERT :- </b></p>
+                <P><img src="c:\Users\admin\Pictures\download.Png" height="30">
+                    <big>Python</big>
+                    <img src="c:\Users\admin\Pictures\download (1).png" height="40">
+                    <big>Java</big>
+                </P>
+            </article>
+            <footer>
+                <hr>
+                <p><big><b> SEE MY WORK ON BELOW LINK </b></big></p>
+                <a href="https://github.com/topics/information-gathering">Github.com</a>
+                <hr>
+            </footer>
+        </main>
+    </body>
+</html>
