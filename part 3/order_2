@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <header>
+            The list
+        </header>
+        <hr>
+        <main>
+            <ol>
+                <li>Animal</li>
+                <ol>
+                   <li>Cats</li>
+                   <li>Dogs</li>
+                </ol>
+                <br>
+                <li>Humans</li>
+                <ol>
+                    <li>Machine need</li>
+                    <li>Machine not need</li>
+                </ol>
+            </ol>
+        </main>
+    </body>
+</html>
