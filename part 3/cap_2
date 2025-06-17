@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <header></header>
+        <main>
+            <table>
+                <thread>
+                <caption>
+                    course
+                </caption>
+                <tr>
+                    <th colspan="2">
+                        <tr>c++</tr>
+                    </th>
+                </tr>
+                </thread>
+                <tr>
+                    <td>array</td> 
+                    <td>Operator</td>
+                </tr>
+            </table>
+        </main>
+    </body>
+</html>
