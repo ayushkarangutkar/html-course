@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <header>
+            The list
+        </header>
+        <hr>
+        <main>
+            <ol>
+                <li>world</li>
+                <li>country</li>
+            </ol>
+        </main>
+    </body>
+</html>
