@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <header>
+        </header>
+        <main>
+           <table>
+            <caption>
+                Animal data
+            </caption>
+            <tr>
+                <th>Name</th>
+                <th>Id</th>
+            </tr>
+            <tr>
+                <td>Simba</td>
+                <td>98</td>
+            </tr>
+            <tr>
+                <td>Max</td>
+                <td>77</td>
+            </tr>
+           </table>
+        </main>
+    </body>
+</html>
