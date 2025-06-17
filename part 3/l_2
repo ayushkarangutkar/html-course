@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+    <head>
+
+    </head>
+    <body>
+        <header>
+            The list
+        </header>
+        <hr>
+        <main>
+            <li>The things</li>
+            <ul>
+                <li>pen</li>
+                <li>sqaure</li>
+            </ul>
+            <li>The nothing</li>
+            <ul>
+                <li>Emotion</li>
+                <li>Taste</li>
+            </ul>
+        </main>
+    </body>
+</html>
