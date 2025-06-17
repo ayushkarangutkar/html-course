@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head>
+    </head>
+    <body>
+        <header>
+            The Table
+        </header>
+        <main>
+           <table>
+            <tr>
+                <th>Name</th>
+                <th>Id</th>
+            </tr>
+            <tr>
+                <td>Simba</td>
+                <td>98</td>
+            </tr>
+           </table>
+        </main>
+    </body>
+</html>
