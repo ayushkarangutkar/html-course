@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+    </head>
+    <body>
+        <header>The Applctn</header>
+        <form action="/action.php">
+            <input type="text" palceholder="Username">
+            <br><br>
+            <input type="password" placeholder="Put the passwords">
+        </form>
+    </body>
+</html>
