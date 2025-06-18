@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+    </head>
+    <body>
+        <header>The Applctn</header>
+        <form action="/action.php">
+            <input type="text" palceholder="Username">
+        </form>
+    </body>
+</html>
