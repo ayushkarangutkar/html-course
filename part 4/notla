@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+    </head>
+    <body>
+        <header>The Applctn</header>
+        <form action="/action.php">
+            <input type="radio" value="discipline" name="hardwork">disciplane
+            <input type="radio" value="motivation" name="hardwork">motivation
+        </form>
+        </form>
+    </body>
+</html>
