@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+    </head>
+    <body>
+        <header>The Applctn</header>
+        <form action="/action.php">
+            <label for="101">
+                <input type="checkbox" value="insurance" name="money" id="101">insurance
+            </label>
+            <label for="102">
+                <input type="checkbox" value="fund" name="money" id="102">fund
+            </label>
+            <label for="103">
+                <input type="checkbox" value="valuation" name="money" id="103">valuation
+            </label>
+            <label for="104">
+                <input type="checkbox" value="shared" name="money" id="104">shared
+            </label>
+        </form>
+        </form>
+    </body>
+</html>
