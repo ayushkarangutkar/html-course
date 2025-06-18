@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+        <title>Datingapp.com</title>
+    </head>
+    <body>
+        <header>
+            <img src="c:\Users\admin\Pictures\Cap.PNG" height="70"> <big><big><b>Dateapp</b></big></big> 
+            <hr>
+        </header>
+        <main>
+            <section>
+                <p><big><b><i>MY PROFILE</i></b></big></p>
+                <t><img src=" c:\Users\admin\Pictures\y.png" height="100"></t>
+            </section>
+            <article>
+                <big><b>Information</b></big>
+            </article>
+        </main>
+    
+    </body>
+</html>
