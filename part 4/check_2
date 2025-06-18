@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <head> 
+    </head>
+    <body>
+        <header>The Applctn</header>
+        <form action="/action.php">
+            <label for="130">
+                <input type="checkbox" value="north amercia" name="country" id="130">north amercia
+            </label>
+            <label for="135">
+                <input type="checkbox" value="austrialia" name="country" id="135">austrialia
+            </label>
+            <label for="140">
+                <input type="checkbox" value="russia" name="country" id="145">russia
+            </label>
+            <label for="145">
+                <input type="checkbox" value="greenland" name="country" id="130">greenland
+            </label>
+        </form>
+    </body>
+</html>
