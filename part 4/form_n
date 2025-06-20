@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>The list</title>
+    </head>
+    <body>
+        <header></header>
+        <main>
+            <label for="history">
+              <input type="checkbox" value="history" name="subject" id="101">History
+            </label>
+            <label>
+                <input type="checkbox" value="science" name="subject" id="102">Science
+            </label>
+
+            <select name="course">
+                <option value="C++">C++</option>
+                <option value="GUI">GUI</option>
+                <option value="Training">Train</option>
+            </select>
+        </main>
+    </body>
+</html>
